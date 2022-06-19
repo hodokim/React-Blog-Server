@@ -1,2 +1,2 @@
 # Node-Mongo
-node.js 와 mongoDB를 이용한 웹서비스 만들어보기
+React + Express + MongoDB 를 활용한 개인 Blog
